@@ -1,3 +1,5 @@
+// Interfaces e Genérics
+
 interface Quimico {
     nome: string;
     calcularMassaMolar(formula: string): number;

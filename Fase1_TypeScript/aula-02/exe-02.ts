@@ -1,3 +1,5 @@
+// Classes, Métodos e Propriedades
+
 class Animal {
     private especie: string;
 
